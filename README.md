@@ -24,7 +24,7 @@ Through this project, I practiced writing semantic HTML and styling layouts usin
 
 ## 🖼 Home Page Preview
 
-![Home Page Screenshot](home.png)
+![Home Page Screenshot](home.jpg)
 
  ---
 
